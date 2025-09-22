@@ -1,0 +1,144 @@
+{
+  "animals": [
+    {
+      "id": "bruno-the-explorer",
+      "name": "Bruno the Explorer",
+      "emoji": "🧸",
+      "bio": "Bruno never leaves home without his trusty backpack full of maps, snacks, and souvenirs. He believes every step is part of the journey and loves meeting friends along the way.",
+      "status": "live",
+      "unlockDate": "2025-09-17T00:00:00.000Z",
+      "promoImage": "./assets/bruno.png",
+      "marketLink": "https://magiceden.io/marketplace/cybertravels"
+    },
+    {
+      "id": "penny-the-jetsetter",
+      "name": "Penny the Jetsetter",
+      "emoji": "🐧",
+      "bio": "Penny adores the thrill of airports and train stations. Her suitcase carries stamps from every corner of the globe, and she's always chasing the next adventure.",
+      "status": "locked",
+      "unlockDate": "2025-09-25T00:00:00.000Z",
+      "promoImage": "./assets/penny.png",
+      "marketLink": null
+    },
+    {
+      "id": "milo-the-rider",
+      "name": "Milo the Rider",
+      "emoji": "🐱",
+      "bio": "Milo zips through cobblestone streets and seaside roads with the wind in his whiskers. He's fast, curious, and never misses a chance to explore a hidden alley.",
+      "status": "locked",
+      "unlockDate": "2025-10-02T00:00:00.000Z",
+      "promoImage": "./assets/milo.png",
+      "marketLink": null
+    },
+    {
+      "id": "atlas-the-navigator",
+      "name": "Atlas the Navigator",
+      "emoji": "🤖",
+      "bio": "Atlas might be made of circuits, but his sense of direction is legendary. He studies every map carefully, making sure his friends never get lost.",
+      "status": "locked",
+      "unlockDate": "2025-10-09T00:00:00.000Z",
+      "promoImage": "./assets/atlas.png",
+      "marketLink": null
+    },
+    {
+      "id": "scout-the-loyal",
+      "name": "Scout the Loyal",
+      "emoji": "🐶",
+      "bio": "Scout carries more than gear in his backpack — he carries the spirit of friendship. Always ready to lend a paw, he's the first to bark encouragement on tough trails.",
+      "status": "locked",
+      "unlockDate": "2025-10-16T00:00:00.000Z",
+      "promoImage": "./assets/scout.png",
+      "marketLink": null
+    },
+    {
+      "id": "luna-the-photographer",
+      "name": "Luna the Photographer",
+      "emoji": "🦉",
+      "bio": "Luna's keen eyes spot beauty everywhere. With her camera in claw, she captures sunsets, snowy peaks, and candid smiles to share with the group.",
+      "status": "locked",
+      "unlockDate": "2025-10-23T00:00:00.000Z",
+      "promoImage": "./assets/luna.png",
+      "marketLink": null
+    },
+    {
+      "id": "ellie-the-dreamer",
+      "name": "Ellie the Dreamer",
+      "emoji": "🐘",
+      "bio": "Ellie believes balloons can lift more than just weight — they lift spirits. Gentle and joyful, she's always ready to celebrate even the smallest victories.",
+      "status": "locked",
+      "unlockDate": "2025-10-30T00:00:00.000Z",
+      "promoImage": "./assets/ellie.png",
+      "marketLink": null
+    },
+    {
+      "id": "finn-the-pathfinder",
+      "name": "Finn the Pathfinder",
+      "emoji": "🦊",
+      "bio": "Finn's hiking stick is carved with runes from places he's explored. Clever and resourceful, he often leads the way when the path grows uncertain.",
+      "status": "locked",
+      "unlockDate": "2025-11-06T00:00:00.000Z",
+      "promoImage": "./assets/finn.png",
+      "marketLink": null
+    },
+    {
+      "id": "bao-the-comfort-seeker",
+      "name": "Bao the Comfort Seeker",
+      "emoji": "🐼",
+      "bio": "Bao's travel mug is filled with warm tea to keep him cozy. He reminds everyone to slow down, enjoy the view, and take life one sip at a time.",
+      "status": "locked",
+      "unlockDate": "2025-11-13T00:00:00.000Z",
+      "promoImage": "./assets/bao.png",
+      "marketLink": null
+    },
+    {
+      "id": "kira-the-watcher",
+      "name": "Kira the Watcher",
+      "emoji": "🐨",
+      "bio": "Kira spots wonders others might miss: rare birds, distant mountains, and shooting stars. Her binoculars make every journey feel like a discovery.",
+      "status": "locked",
+      "unlockDate": "2025-11-20T00:00:00.000Z",
+      "promoImage": "./assets/kira.png",
+      "marketLink": null
+    },
+    {
+      "id": "juno-the-adventurer",
+      "name": "Juno the Adventurer",
+      "emoji": "🦒",
+      "bio": "Juno's long neck helps her see planes before they land. She treasures every boarding pass and dreams of visiting places higher than even she can see.",
+      "status": "locked",
+      "unlockDate": "2025-11-27T00:00:00.000Z",
+      "promoImage": "./assets/juno.png",
+      "marketLink": null
+    },
+    {
+      "id": "rio-the-messenger",
+      "name": "Rio the Messenger",
+      "emoji": "🦜",
+      "bio": "Rio collects postcards from friends and distant lands, always eager to send one back. His colorful feathers match his bright stories.",
+      "status": "locked",
+      "unlockDate": "2025-12-04T00:00:00.000Z",
+      "promoImage": "./assets/rio.png",
+      "marketLink": null
+    },
+    {
+      "id": "soleil-the-relaxer",
+      "name": "Soleil the Relaxer",
+      "emoji": "🦥",
+      "bio": "Soleil believes adventures should be balanced with rest. She swings gently in her hammock, reminding her friends that relaxation is part of the journey.",
+      "status": "locked",
+      "unlockDate": "2025-12-11T00:00:00.000Z",
+      "promoImage": "./assets/soleil.png",
+      "marketLink": null
+    },
+    {
+      "id": "riley-the-trailblazer",
+      "name": "Riley the Trailblazer",
+      "emoji": "🦝",
+      "bio": "Riley lights the way when nights get dark. Mischievous but brave, he's always ready to guide the group through shadowy forests and into the dawn.",
+      "status": "locked",
+      "unlockDate": "2025-12-18T00:00:00.000Z",
+      "promoImage": "./assets/riley.png",
+      "marketLink": null
+    }
+  ]
+}
